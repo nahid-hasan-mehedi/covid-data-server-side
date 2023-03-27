@@ -1,0 +1,20 @@
+{
+  "name": "cs3100asgn2-greatonizukaa-master",
+  "version": "1.0.0",
+  "description": "_Place any information the marker needs to assess your submission in the README file_",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.mjs",
+    "dev": "nodemon app.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21"
+  }
+}
